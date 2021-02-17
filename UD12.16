@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T16:26:40.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="OaNScdamD9t5oLHuSMdZ" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-17T17:18:14.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="quWZxYKhYfWHQBjGH4u8" version="14.3.2" type="github">
   <diagram id="30pRPgLNRNTKfHThKx5E" name="Page-1">
     <mxGraphModel dx="1826" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,14 +194,6 @@
         <mxCell id="DLxGfJ7a37jNkmFziHKP-79" value="&lt;div&gt;&lt;b&gt;Modelo Relacional Twitter (ej. 16)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;USUARIOS (&lt;u&gt;id_nombre_usuario&lt;/u&gt;, nombre, contraseña, correo_electronico, biografia)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BLOQUEAR (&lt;u&gt;id_nombre_usuario&lt;/u&gt;, &lt;u&gt;id_nombre_usuario&lt;/u&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SEGUIR (&lt;u&gt;id_nombre_usuario, id_nombre_usuario&lt;/u&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PUBLICACIONES (&lt;u&gt;id_nombre_usuario&lt;/u&gt;, hashtag, texto, media,&lt;/div&gt;id_publicaciones&lt;div&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MENSAJES (&lt;u&gt;id_mensajes, texto&lt;/u&gt;, imagenes, id_nombre_usuario)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;GRUPOS (&lt;u&gt;id_grupo, nombre&lt;/u&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PERTENECER (i&lt;u&gt;d_nombre_usuario, id_grupo&lt;/u&gt;)&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="460" height="240" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="mp5Se1-NyrtJzcXfZ3F1" name="Page-2">
-    <mxGraphModel dx="1426" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="5HWMAZ6Q0vSjgEMm9T4B-0" />
-        <mxCell id="5HWMAZ6Q0vSjgEMm9T4B-1" parent="5HWMAZ6Q0vSjgEMm9T4B-0" />
       </root>
     </mxGraphModel>
   </diagram>
