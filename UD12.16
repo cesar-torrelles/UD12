@@ -1,32 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T15:54:10.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="EvMcLz0_6sQdaQDGvZqZ" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T16:26:40.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="OaNScdamD9t5oLHuSMdZ" version="14.3.2" type="github" pages="2">
   <diagram id="30pRPgLNRNTKfHThKx5E" name="Page-1">
     <mxGraphModel dx="1826" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=ERmany;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="55" target="7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="308" y="240" />
-              <mxPoint x="390" y="240" />
-              <mxPoint x="390" y="270" />
-              <mxPoint x="630" y="270" />
-              <mxPoint x="630" y="280" />
-              <mxPoint x="655" y="280" />
-            </Array>
-            <mxPoint x="650" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="4" target="51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4" value="PUBLICACIONES" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="677" y="87.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7" target="14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490.990068280571" y="449.137181874612" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7" target="50" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -60,10 +42,10 @@
         <mxCell id="20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" parent="1" source="22" target="7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;" parent="1" source="22" target="55" edge="1">
+        <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=ERone;endFill=0;" parent="1" source="22" target="55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="22" value="enviar" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="22" value="Crean" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="500" y="196.88" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=ERmany;endFill=0;" parent="1" source="25" edge="1">
@@ -209,6 +191,17 @@
             <mxPoint x="298" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DLxGfJ7a37jNkmFziHKP-79" value="&lt;div&gt;&lt;b&gt;Modelo Relacional Twitter (ej. 16)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;USUARIOS (&lt;u&gt;id_nombre_usuario&lt;/u&gt;, nombre, contraseña, correo_electronico, biografia)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BLOQUEAR (&lt;u&gt;id_nombre_usuario&lt;/u&gt;, &lt;u&gt;id_nombre_usuario&lt;/u&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SEGUIR (&lt;u&gt;id_nombre_usuario, id_nombre_usuario&lt;/u&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PUBLICACIONES (&lt;u&gt;id_nombre_usuario&lt;/u&gt;, hashtag, texto, media,&lt;/div&gt;id_publicaciones&lt;div&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MENSAJES (&lt;u&gt;id_mensajes, texto&lt;/u&gt;, imagenes, id_nombre_usuario)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;GRUPOS (&lt;u&gt;id_grupo, nombre&lt;/u&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PERTENECER (i&lt;u&gt;d_nombre_usuario, id_grupo&lt;/u&gt;)&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="460" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mp5Se1-NyrtJzcXfZ3F1" name="Page-2">
+    <mxGraphModel dx="1426" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="5HWMAZ6Q0vSjgEMm9T4B-0" />
+        <mxCell id="5HWMAZ6Q0vSjgEMm9T4B-1" parent="5HWMAZ6Q0vSjgEMm9T4B-0" />
       </root>
     </mxGraphModel>
   </diagram>
