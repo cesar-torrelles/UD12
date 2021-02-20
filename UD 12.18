@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T23:57:11.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="8eN1xPliAiTqcTl0eiyd" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T23:58:30.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="J_u6jPqfcgRMMrYGCkeN" version="14.4.2" type="github">
   <diagram id="o_0TjkZ5wioqQ9vlUBxv" name="Page-1">
-    <mxGraphModel dx="3204" dy="2447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2505" dy="2071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
         <mxCell id="cJgFl8GeP_bLC7ExLFcK-61" value="CLIENTES" style="" parent="1" vertex="1">
           <mxGeometry x="73.5" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cJgFl8GeP_bLC7ExLFcK-68" value="&lt;b&gt;Entidad-Relacion&lt;br&gt;ejercicio 12.2&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="cJgFl8GeP_bLC7ExLFcK-68" value="&lt;b&gt;Entidad-Relacion&lt;br&gt;ejercicio 12.18&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="359" y="-680" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jlSGVwxxzGtlOFjRLAbW-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="lRQ2A55Gaz6UVZwxRxOQ-1" target="jlSGVwxxzGtlOFjRLAbW-2">
