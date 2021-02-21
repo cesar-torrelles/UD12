@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T01:36:56.760Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="rJNvPAehnwlZHoglGEoH" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T01:37:34.519Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="o-Wg2nx7nuVg5VeikdHF" version="14.4.2" type="github">
   <diagram id="o_0TjkZ5wioqQ9vlUBxv" name="Page-1">
     <mxGraphModel dx="2253" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="cJgFl8GeP_bLC7ExLFcK-41" value="&lt;b&gt;Modelo Relacional:&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;text-align: justify&quot;&gt;Menu (&lt;b&gt;&lt;u&gt;fecha&lt;/u&gt;&lt;/b&gt;, numero_comensales/menu, numero_plato_consumido, temperatura_dia)&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;Primero (nombre, descripcion, &lt;b&gt;FK fecha menu&lt;/b&gt;)&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;Segundo (nombre, descripcion, &lt;b&gt;FK fecha menu&lt;/b&gt;)&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;Postre (nombre, descripcion, &lt;b&gt;FK fecha menu&lt;/b&gt;)&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;rounded=0;shadow=0;sketch=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="-675" y="-575" width="480" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="cJgFl8GeP_bLC7ExLFcK-68" value="&lt;b&gt;Entidad-Relacion&lt;br&gt;ejercicio 12.17&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="cJgFl8GeP_bLC7ExLFcK-68" value="&lt;b&gt;Entidad-Relacion&lt;br&gt;ejercicio 12.15&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-279.5" y="-1130" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fOGZhkZ0jRoXsIYWdo3W-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="fOGZhkZ0jRoXsIYWdo3W-1" target="fOGZhkZ0jRoXsIYWdo3W-9" edge="1">
